@@ -1,0 +1,12 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+
+.main{
+    background-color: rgb(65, 65, 235);
+    height: 180px;
+    width: 100%;
+    text-align: center;
+}
